@@ -10444,7 +10444,7 @@ color: #000;
 }
 
 .our-team .picture img {
-  width: auto;
+  width: 100%;
   height: 100%;
   border-radius: 50%;
   transform: scale(1);
